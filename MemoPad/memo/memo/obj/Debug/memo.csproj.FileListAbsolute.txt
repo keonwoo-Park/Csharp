@@ -1,0 +1,9 @@
+C:\Users\kwpark\documents\visual studio 2017\Projects\memo\memo\bin\Debug\memo.exe.config
+C:\Users\kwpark\documents\visual studio 2017\Projects\memo\memo\bin\Debug\memo.exe
+C:\Users\kwpark\documents\visual studio 2017\Projects\memo\memo\bin\Debug\memo.pdb
+C:\Users\kwpark\documents\visual studio 2017\Projects\memo\memo\obj\Debug\memo.csprojResolveAssemblyReference.cache
+C:\Users\kwpark\documents\visual studio 2017\Projects\memo\memo\obj\Debug\memo.Properties.Resources.resources
+C:\Users\kwpark\documents\visual studio 2017\Projects\memo\memo\obj\Debug\memo.csproj.GenerateResource.Cache
+C:\Users\kwpark\documents\visual studio 2017\Projects\memo\memo\obj\Debug\memo.exe
+C:\Users\kwpark\documents\visual studio 2017\Projects\memo\memo\obj\Debug\memo.pdb
+C:\Users\kwpark\documents\visual studio 2017\Projects\memo\memo\obj\Debug\memo.memoPadForm.resources
